@@ -71,7 +71,7 @@ Release a new version
 ---------------------
 
 Each Aldryn django CMS release uses the version number of the corresponding django CMS release, with an extra number
-(starting with ``1``) to indicate the version of Aldryn django CMS for that release. So for example version ``3.7.4.3``
+(starting with ``0``) to indicate the version of Aldryn django CMS for that release. So for example version ``3.7.4.2``
 of Aldryn django CMS is the *third* Aldryn django CMS version that installs django CMS 3.7.4.
 
 Repeat the following until you are satisfied that the Addon works as expected:
