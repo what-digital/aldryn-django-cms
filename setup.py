@@ -12,7 +12,7 @@ REQUIREMENTS = [
 
     # treebeard needs to be pinned to <4.5 until django CMS is patched
     # https://github.com/django-cms/django-cms/pull/6984/
-    'django-treebeard>=4.3,<4.5',      # django-cms
+    'django-treebeard>=4.3,<=4.5.1',      # django-cms
     'djangocms-admin-style',           # django-cms
     'django-select2>=6.2',
 
